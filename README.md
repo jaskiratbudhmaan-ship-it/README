@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,35:312e81,70:7c3aed,100:ec4899&text=Jaskirat%20Kaur&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20STUDENT%20%E2%80%A2%20BUILDER%20%E2%80%A2%20LEARNER&descAlignY=60&descSize=17&animation=fadeIn"/>
@@ -310,4 +310,4 @@ I also enjoy participating in **hackathons** because they push me to turn an ide
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0f172a,35:312e81,70:7c3aed,100:ec4899"/>
 
 </div>
-````
+
