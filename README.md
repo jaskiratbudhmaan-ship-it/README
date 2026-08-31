@@ -146,15 +146,15 @@ build things that are actually useful
 ## find me
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/jaskiratbudhmaan-ship-it">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c4b5fd" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/jaskirat-dev-b73a82333">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=c4b5fd" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:jaskiratbudhmaan@gmail.com">
     <img src="https://img.shields.io/badge/Email-1e1b4b?style=for-the-badge&logo=gmail&logoColor=c4b5fd" alt="Email" />
   </a>
 </p>
