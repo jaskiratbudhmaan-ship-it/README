@@ -10,6 +10,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A594F9&center=true&vCenter=true&width=600&lines=Building+with+AI+%26+Machine+Learning;Solving+problems+with+DSA;Turning+ideas+into+deployable+systems;Learner+%7C+Builder+%7C+Growing+every+day" />
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=jaskiratbudhmaan-ship-it&label=Profile%20Views&color=A594F9&style=flat" />
+
 </div>
 
 <br/>
@@ -22,6 +26,31 @@ I'm a B.Sc. Artificial Intelligence & Machine Learning student who enjoys unders
 I like building things that solve small, real problems, and I'm always looking for the next thing to learn. Beyond the technical side, I'm active with **GDG on Campus**, where I get to learn and grow alongside a great community of builders.
 
 > *"Still learning, still building, still growing."*
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Degree**
+<br/>B.Sc. Artificial Intelligence & Machine Learning
+
+**Currently Focused On**
+<br/>ML · DSA · Backend Development · APIs · Deployment
+
+</td>
+<td width="50%" valign="top">
+
+**Community**
+<br/>GDG on Campus
+
+**Beyond Code**
+<br/>Public Speaking · Meeting New People · Reading Literature
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -40,7 +69,7 @@ I like building things that solve small, real problems, and I'm always looking f
 
 An AI-powered internship recommendation system that matches users to opportunities based on their skills, interests, preferences, and profile data.
 
-**Tech used:** Python · Flask · Machine Learning
+`Python` `Flask` `Machine Learning`
 
 [View Repository →](https://github.com/jaskiratbudhmaan-ship-it/internship-recommender)
 
@@ -51,7 +80,7 @@ An AI-powered internship recommendation system that matches users to opportuniti
 
 An AI-based personal safety project focused on making safety solutions smarter, faster, and more accessible for everyone.
 
-**Tech used:** Python · AI/ML · Image Processing
+`Python` `AI/ML` `Image Processing`
 
 [View Repository →](https://github.com/jaskiratbudhmaan-ship-it/safecircle-ai)
 
@@ -103,7 +132,15 @@ APIs &nbsp;•&nbsp; Deployment &nbsp;•&nbsp; Image Processing
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaskiratbudhmaan-ship-it&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A594F9&icon_color=A594F9&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaskiratbudhmaan-ship-it&theme=dark&hide_border=true&background=0d1117&ring=A594F9&fire=A594F9&currStreakLabel=A594F9" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=jaskiratbudhmaan-ship-it&theme=dark&hide_border=true&background=0d1117&ring=A594F9&fire=A594F9&currStreakLabel=A594F9" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-trophies.vercel.app/?username=jaskiratbudhmaan-ship-it&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10" width="90%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaskiratbudhmaan-ship-it&theme=react-dark&hide_border=true&bg_color=0d1117&color=A594F9&line=A594F9&point=ffffff" width="90%"/>
 
 </div>
 
