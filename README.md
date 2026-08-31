@@ -15,23 +15,11 @@
 <br/>
 
 ## WHO I AM
-*A quick introduction, in code*
+*A quick introduction*
 
-```python
-class JaskiratKaur:
-    def __init__(self):
-        self.degree = "B.Sc. Artificial Intelligence & Machine Learning"
-        self.focus = ["Machine Learning", "DSA", "Backend Development", "APIs", "Deployment"]
-        self.community = "GDG on Campus"
-        self.beyond_code = ["Public Speaking", "Meeting New People", "Reading Literature"]
+I'm a B.Sc. Artificial Intelligence & Machine Learning student who enjoys understanding how things actually work — from the logic inside a model to how it gets deployed and used by real people. My focus right now spans Machine Learning, Data Structures & Algorithms, Backend Development, APIs, and Deployment.
 
-    def philosophy(self):
-        return "Learning by building, one project at a time."
-
-me = JaskiratKaur()
-```
-
-I'm a student developer who enjoys understanding how things actually work — from the logic inside a model to how it gets deployed and used by real people. I like building things that solve small, real problems, and I'm always looking for the next thing to learn.
+I like building things that solve small, real problems, and I'm always looking for the next thing to learn. Beyond the technical side, I'm active with **GDG on Campus**, where I get to learn and grow alongside a great community of builders.
 
 > *"Still learning, still building, still growing."*
 
