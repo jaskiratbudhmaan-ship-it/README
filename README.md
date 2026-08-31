@@ -1,118 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Jaskirat%20Kaur&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Builder&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Jaskirat%20Kaur&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%2FML%20Student%20%C2%B7%20Builder&descAlignY=58&descSize=15" width="100%"/>
 
-<a href="https://github.com/jaskiratbudhmaan-ship-it"><img src="https://img.shields.io/badge/GitHub-A594F9?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/jaskirat-dev-b73a82333/"><img src="https://img.shields.io/badge/LinkedIn-A594F9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jaskiratbudhmaan@gmail.com"><img src="https://img.shields.io/badge/Gmail-A594F9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A594F9&center=true&vCenter=true&width=600&lines=Building+with+AI+%26+Machine+Learning;Solving+problems+with+DSA;Turning+ideas+into+deployable+systems;Learner+%7C+Builder+%7C+Growing+every+day" />
+<a href="https://github.com/jaskiratbudhmaan-ship-it"><img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jaskirat-dev-b73a82333/"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jaskiratbudhmaan@gmail.com"><img src="https://img.shields.io/badge/Gmail-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=jaskiratbudhmaan-ship-it&label=Profile%20Views&color=A594F9&style=flat" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=560&lines=Currently+deep+in+Machine+Learning;Figuring+out+backend+systems%2C+one+API+at+a+time;Still+building%2C+still+learning" />
 
 </div>
 
-<br/>
+<br/><br/>
 
 ## WHO I AM
-*A quick introduction*
+*a short note, not a résumé*
 
-I'm a B.Sc. Artificial Intelligence & Machine Learning student who enjoys understanding how things actually work — from the logic inside a model to how it gets deployed and used by real people. My focus right now spans Machine Learning, Data Structures & Algorithms, Backend Development, APIs, and Deployment.
+I'm studying Artificial Intelligence & Machine Learning, but most of what I actually know came from getting stuck on something and refusing to close the tab until it worked. I like the parts of building that don't make it into the demo — the debugging, the second attempt at an API design, the moment a model finally does what you meant instead of what you wrote.
 
-I like building things that solve small, real problems, and I'm always looking for the next thing to learn. Beyond the technical side, I'm active with **GDG on Campus**, where I get to learn and grow alongside a great community of builders.
+Outside of that, I talk more than most engineers probably should. I get restless at events until I'm on stage or in a conversation with someone new, and I read when I want my brain to slow down instead of speed up.
 
-> *"Still learning, still building, still growing."*
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Degree**
-<br/>B.Sc. Artificial Intelligence & Machine Learning
-
-**Currently Focused On**
-<br/>ML · DSA · Backend Development · APIs · Deployment
-
-</td>
-<td width="50%" valign="top">
-
-**Community**
-<br/>GDG on Campus
-
-**Beyond Code**
-<br/>Public Speaking · Meeting New People · Reading Literature
-
-</td>
-</tr>
-</table>
+I'm part of **GDG on Campus**, mostly because I like being around people who are also figuring things out in public.
 
 <br/>
 
----
+*"Still learning, still building, still growing."*
 
-<br/>
+<br/><br/>
 
 ## FEATURED PROJECTS
-*A few things I've built along the way*
+*the ones I'd actually walk someone through*
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### Next Intern
+**Next Intern**
 
-An AI-powered internship recommendation system that matches users to opportunities based on their skills, interests, preferences, and profile data.
+Started because internship-hunting felt like guesswork. It recommends internships based on a person's actual skills, interests, and preferences instead of just keyword-matching a resume.
 
 `Python` `Flask` `Machine Learning`
 
-[View Repository →](https://github.com/jaskiratbudhmaan-ship-it/internship-recommender)
+[View the code →](https://github.com/jaskiratbudhmaan-ship-it/internship-recommender)
 
 </td>
 <td width="50%" valign="top">
 
-### SafeCircleAI
+**SafeCircleAI**
 
-An AI-based personal safety project focused on making safety solutions smarter, faster, and more accessible for everyone.
+A personal safety project built around one question — what would make safety tools something people actually reach for, fast, without friction, when it matters.
 
 `Python` `AI/ML` `Image Processing`
 
-[View Repository →](https://github.com/jaskiratbudhmaan-ship-it/safecircle-ai)
+[View the code →](https://github.com/jaskiratbudhmaan-ship-it/safecircle-ai)
 
 </td>
 </tr>
 </table>
 
-<br/>
-
----
-
-<br/>
+<br/><br/>
 
 ## CURRENTLY LEARNING
-*What's on my plate right now*
+*what's open in my tabs right now*
 
 <div align="center">
 
-Machine Learning &nbsp;•&nbsp; Data Structures & Algorithms &nbsp;•&nbsp; Backend Development
+Machine Learning &nbsp;·&nbsp; Data Structures & Algorithms &nbsp;·&nbsp; Backend Development
 <br/>
-APIs &nbsp;•&nbsp; Deployment &nbsp;•&nbsp; Image Processing
+APIs &nbsp;·&nbsp; Deployment &nbsp;·&nbsp; Image Processing
 
 </div>
 
-<br/>
-
----
-
-<br/>
+<br/><br/>
 
 ## TECH STACK
-*Tools and languages I work with*
+*the tools I actually reach for*
 
 <div align="center">
 
@@ -120,58 +83,38 @@ APIs &nbsp;•&nbsp; Deployment &nbsp;•&nbsp; Image Processing
 
 </div>
 
-<br/>
-
----
-
-<br/>
+<br/><br/>
 
 ## GITHUB STATS
-*A quick look at my activity*
+*a rough picture of the work*
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaskiratbudhmaan-ship-it&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A594F9&icon_color=A594F9&text_color=c9d1d9" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=jaskiratbudhmaan-ship-it&theme=dark&hide_border=true&background=0d1117&ring=A594F9&fire=A594F9&currStreakLabel=A594F9" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-trophies.vercel.app/?username=jaskiratbudhmaan-ship-it&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10" width="90%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaskiratbudhmaan-ship-it&theme=react-dark&hide_border=true&bg_color=0d1117&color=A594F9&line=A594F9&point=ffffff" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jaskiratbudhmaan-ship-it&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=jaskiratbudhmaan-ship-it&theme=dark&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="48%"/>
 
 </div>
 
-<br/>
-
----
-
-<br/>
+<br/><br/>
 
 ## LIFE BEYOND CODE
-*What keeps me going outside the editor*
+*the other half of the week*
 
-When I'm not coding, you'll usually find me on a stage practicing public speaking, striking up a conversation with someone new, or lost in a good piece of literature. I'm also an active member of **GDG on Campus**, where I get to learn, collaborate, and grow alongside a great community of builders.
-
-<br/>
-
----
-
-<br/>
-
-## LET'S CONNECT
-*Always open to a good conversation*
-
-<div align="center">
-
-<a href="https://github.com/jaskiratbudhmaan-ship-it"><img src="https://img.shields.io/badge/GitHub-A594F9?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/jaskirat-dev-b73a82333/"><img src="https://img.shields.io/badge/LinkedIn-A594F9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jaskiratbudhmaan@gmail.com"><img src="https://img.shields.io/badge/Gmail-A594F9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+Most weeks I'm somewhere between a public speaking event, a conversation with someone I just met, and a book I'm halfway through. None of it feels separate from the building, honestly — it's the same instinct, just pointed at people instead of problems.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+## LET'S CONNECT
+*I reply faster than my commit history suggests*
+
+<div align="center">
+
+<a href="https://github.com/jaskiratbudhmaan-ship-it"><img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jaskirat-dev-b73a82333/"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jaskiratbudhmaan@gmail.com"><img src="https://img.shields.io/badge/Gmail-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
 
 </div>
