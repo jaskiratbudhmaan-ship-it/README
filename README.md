@@ -1,227 +1,148 @@
-<!-- Built from the profile brief and visual direction provided here: -->
+<!--
+  GitHub Profile README for Jaskirat Kaur
+  Replace:
+  - YOUR_USERNAME with your GitHub username
+  - YOUR_LINKEDIN_URL with your LinkedIn profile link
+  - YOUR_EMAIL with your email address
+  - project URLs with your actual repository/live-demo links
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,45:111827,75:312E81,100:22D3EE&text=JASKIRAT%20KAUR&fontColor=F8FAFC&fontSize=48&fontAlignY=36&desc=AI%20%2F%20ML%20%C2%B7%20student%20%C2%B7%20builder&descAlignY=55&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,35:312e81,70:7c3aed,100:ec4899&text=Jaskirat%20Kaur&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20student%20%E2%80%A2%20building%20things%20that%20actually%20work&descAlignY=58&descSize=16&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=building+things+to+understand+how+they+work;python+%2F+machine+learning+%2F+backend;currently+turning+bugs+into+learning+material" alt="Typing SVG" />
-
-</div>
-
-<br>
-
-```text
-JASKIRAT
-
-2nd year B.Sc. Artificial Intelligence & Machine Learning
-learning by building things that are slightly above my current skill level
-```
-
-I spend most of my time around **Python, C++, SQL, machine learning and DSA**.
-
-I like projects where I get to connect the pieces — data, models, APIs, backend logic and the interface someone actually uses.
-Still learning. Still debugging. Definitely still opening too many tabs while building one feature.
-
----
-
-## `01 / CURRENT`
-
-```text
-╭──────────────────────────────────────────────────────╮
-│  STATUS      learning by building                    │
-│                                                      │
-│  learning    DSA · ML · Image Processing             │
-│  building    AI / ML projects · backend systems      │
-│  exploring   Computer Vision · LLMs                  │
-│  improving   cleaner code · better fundamentals      │
-╰──────────────────────────────────────────────────────╯
-```
-
----
-
-## `02 / TOOLBOX`
-
-<div align="LEFT">
-
-### LANGUAGES
-
-![Python](https://img.shields.io/badge/PYTHON-111827?style=for-the-badge\&logo=python\&logoColor=22D3EE)
-![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge\&logo=cplusplus\&logoColor=A78BFA)
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge\&logo=c\&logoColor=818CF8)
-![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge\&logo=postgresql\&logoColor=22D3EE)
-
-### AI/ML
-
-![Artificial Intelligence](https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-161B22?style=for-the-badge\&logoColor=A78BFA)
-![Machine Learning](https://img.shields.io/badge/MACHINE%20LEARNING-161B22?style=for-the-badge\&logo=scikitlearn\&logoColor=22D3EE)
-![Recommendation Systems](https://img.shields.io/badge/RECOMMENDATION%20SYSTEMS-161B22?style=for-the-badge\&logoColor=818CF8)
-![Data Processing](https://img.shields.io/badge/DATA%20PROCESSING-161B22?style=for-the-badge\&logo=pandas\&logoColor=A78BFA)
-![Computer Vision](https://img.shields.io/badge/COMPUTER%20VISION-161B22?style=for-the-badge\&logo=opencv\&logoColor=22D3EE)
-
-### WEB / BACKEND
-
-![HTML](https://img.shields.io/badge/HTML-1E293B?style=for-the-badge\&logo=html5\&logoColor=A78BFA)
-![CSS](https://img.shields.io/badge/CSS-1E293B?style=for-the-badge\&logo=css3\&logoColor=22D3EE)
-![Flask](https://img.shields.io/badge/FLASK-1E293B?style=for-the-badge\&logo=flask\&logoColor=F8FAFC)
-![REST API](https://img.shields.io/badge/REST%20API-1E293B?style=for-the-badge\&logo=fastapi\&logoColor=818CF8)
-
-### TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" height="43" alt="Git GitHub VS Code Vercel"/>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-my%20projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br><br>
 
-![Google Colab](https://img.shields.io/badge/GOOGLE%20COLAB-111827?style=flat-square\&logo=googlecolab\&logoColor=F9AB00)
-![BigQuery](https://img.shields.io/badge/BIGQUERY-111827?style=flat-square\&logo=googlebigquery\&logoColor=669DF6)
-![Render](https://img.shields.io/badge/RENDER-111827?style=flat-square\&logo=render\&logoColor=22D3EE)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=learning+AI%2FML+one+project+at+a+time;currently+breaking+things%2C+debugging+them%2C+and+learning+why;DSA+%2B+ML+%2B+backend+%2B+too+many+browser+tabs" />
 
 </div>
 
-<br>
+about_me.py
 
-```text
-concepts.txt
+jaskirat = {
+    "degree": "B.Sc. Artificial Intelligence & Machine Learning",
+    "year": "2nd year",
+    "currently_learning": ["DSA", "Machine Learning", "Backend Development", "Image Processing"],
+    "building": ["Next Intern", "SafeCircleAI"],
+    "interests": ["AI/ML", "problem solving", "public speaking", "literature"],
+    "current_mood": "probably debugging something that worked 5 minutes ago"
+}
 
-OOP
-Data Structures & Algorithms
-Machine Learning
-Recommendation Systems
-Data Processing
-REST APIs
-Backend Development
-Basic Image Processing
-```
+I like building projects where I can see the idea turn into something usable.
 
----
+Some days that means training a recommendation model.
+Other days it means figuring out why an API suddenly decided not to cooperate.
 
-# `03 / FEATURED PROJECTS`
+Right now, I’m focused on becoming stronger at problem solving, machine learning, backend development, and building complete products instead of isolated code snippets.
 
-<br>
+what i'm building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### NEXT INTERN
+🪄 Next Intern
 
-`TYPE / AI + RECOMMENDATION SYSTEM`
+An AI-powered internship recommendation platform that matches students with relevant opportunities using their skills, interests, preferences and CV data.
 
-`STATUS / ITERATING`
+Python Flask Machine Learning Recommendation System
 
-A project I started because scrolling through internship listings becomes useless pretty quickly when most of them don't match what you're actually looking for.
-
-Next Intern uses profile information and CV/resume input to recommend more relevant opportunities.
-
-**inside it**
-
-→ profile-based recommendations
-→ CV/resume-based recommendations
-→ skill + preference matching
-→ ranked internship results
-
-<br>
-
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square\&logo=python\&logoColor=22D3EE)
-![Flask](https://img.shields.io/badge/Flask-111827?style=flat-square\&logo=flask\&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-111827?style=flat-square\&logo=scikitlearn\&logoColor=A78BFA)
-![API](https://img.shields.io/badge/REST%20API-111827?style=flat-square\&logoColor=818CF8)
+<a href="https://github.com/YOUR_USERNAME/NEXT-INTERN-REPO">
+<img src="https://img.shields.io/badge/view%20project-%E2%86%92-7c3aed?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### SAFECIRCLEAI
+🛡️ SafeCircleAI
 
-`TYPE / AI + PERSONAL SAFETY`
+A safety-focused AI project built around the idea of using technology to make personal safety smarter, faster and more accessible.
 
-`FOCUS / PRACTICAL USE`
+AI ML Web Development Problem Solving
 
-An AI-focused personal safety project built around a simple idea: safety software should be useful when someone actually needs it, not just look impressive in a demo.
-
-The project explores AI-assisted functionality through a simple web experience.
-
-**focus**
-
-→ personal safety
-→ AI-assisted features
-→ practical web functionality
-→ simple user experience
-
-<br>
-
-![AI](https://img.shields.io/badge/AI-111827?style=flat-square\&logoColor=A78BFA)
-![Web](https://img.shields.io/badge/Web-111827?style=flat-square\&logo=googlechrome\&logoColor=22D3EE)
-![Safety](https://img.shields.io/badge/Personal%20Safety-111827?style=flat-square\&logoColor=818CF8)
+<a href="https://github.com/YOUR_USERNAME/SAFECIRCLEAI-REPO">
+<img src="https://img.shields.io/badge/view%20project-%E2%86%92-ec4899?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 </table>
 
-<br>
+currently
 
-> `note_03` — good projects usually begin with a simple idea and a folder structure that gets questionable very quickly.
+→ practising DSA instead of only watching tutorials
+→ exploring machine learning beyond notebooks
+→ learning how frontend, backend, APIs and deployment connect
+→ experimenting with image processing
+→ improving my Git + GitHub workflow
+→ trying to write cleaner code than I wrote last month
 
----
+toolbox
 
-## `04 / LEARNING_QUEUE`
+<div align="center">
 
-| now                           | next                      |
-| :---------------------------- | :------------------------ |
-| Data Structures & Algorithms  | Computer Vision           |
-| Machine Learning fundamentals | Better ML systems         |
-| Image Processing              | LLM experiments           |
-| Backend development           | More complete deployments |
+languages
 
-<br>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,mysql&theme=dark" />
 
-```python
-idea = something_i_want_to_build()
+tools i actually use
 
-while not idea.works():
-    debug()
-    understand_one_more_thing()
-    try_again()
-```
+<img src="https://skillicons.dev/icons?i=vscode,git,github,flask,vercel&theme=dark" />
 
----
+<br><br>
 
-## `05 / GITHUB SIGNAL`
-
-<div align="left">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jaskiratbudhmaan-ship-it&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&ring_color=818CF8" alt="GitHub Stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskiratbudhmaan-ship-it&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-in%20progress-a855f7?style=flat-square"/>
+<img src="https://img.shields.io/badge/DSA-daily%20practice-ec4899?style=flat-square"/>
 
 </div>
 
----
+outside the editor
 
-## `06 / OUTSIDE THE TERMINAL`
+I’m also part of GDG on Campus, where I get to learn, build and work around people who are equally curious about tech.
 
-I like the social side of tech too — **public speaking, meeting people, developer communities, hackathons and organising technical events**.
+Hackathons are one of my favourite ways to learn because they force me to stop overthinking and actually ship something.
 
-I also read literature, like experimenting with random ideas, and somehow keep turning “I'll just test this quickly” into another project.
+I also enjoy public speaking, meeting new people, reading literature, and building random ideas just to see if I can make them work.
 
-For me, a lot of learning happens through conversations, teamwork and seeing how someone else approaches the same problem.
+github.exe
 
----
+<div align="center">
 
-## `07 / FIND ME`
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=f472b6&text_color=c9d1d9&ring_color=8b5cf6" />
 
-<div align="left">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9" />
 
-<a href="https://github.com/jaskiratbudhmaan-ship-it">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
-</a>
+<br>
 
-<a href="https://www.linkedin.com/in/jaskirat-dev-b73a82333/">
-<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=F472B6&currStreakLabel=C084FC" />
 
-<a href="mailto:jaskiratbudhmaan@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-1E293B?style=for-the-badge&logo=gmail&logoColor=A78BFA"/>
-</a>
+</div>
+
+a little more me
+
+<div align="center">
+
+learning in public • building before feeling “ready” • collecting bugs and fixing them one by one
+
+<br>
+
+<img src="https://img.shields.io/badge/code-then%20coffee-312e81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/currently-debugging-yes-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/curiosity-level%209999-ec4899?style=for-the-badge"/>
 
 </div>
 
@@ -229,8 +150,10 @@ For me, a lot of learning happens through conversations, teamwork and seeing how
 
 <div align="center">
 
-`still building / still learning / probably debugging`
+If you’re building something interesting, learning AI/ML, or just want to exchange ideas — say hi.
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,35:312e81,70:7c3aed,100:ec4899"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,45:312E81,100:0D1117&animation=fadeIn"/>
