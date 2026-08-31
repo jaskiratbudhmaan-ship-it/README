@@ -1,174 +1,111 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:111827,100:1e1b4b&height=220&section=header&text=JASKIRAT%20KAUR&fontSize=44&fontColor=c4b5fd&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20student%20%E2%80%A2%20learning%20by%20building&descAlignY=58&descSize=16&descColor=a78bfa"
-    width="100%"
-    alt="Jaskirat"
-  />
-</p>
+# JASKIRAT
 
-## Hey , I'm JASKIRAT
+`ai/ml student · building, breaking, learning`
 
-I'm a **2nd-year B.Sc. Artificial Intelligence & Machine Learning student** who likes learning by actually building things.
+I'm a 2nd-year **B.Sc. Artificial Intelligence & Machine Learning** student.
 
-Most of my time goes into **Python, C++, SQL, DSA and Machine Learning** — experimenting with ideas, debugging things I probably broke myself, and figuring out how different parts of a project work together.
+I learn best when I have something real to build, so most of my learning happens somewhere between writing code, debugging it, changing the idea halfway through, and figuring out why something works.
 
-I'm especially interested in **AI/ML, recommendation systems, data, backend development and computer vision**. Outside the technical side, I enjoy public speaking, meeting new people and being involved in developer communities.
+Right now, I spend most of my time with **Python, C++, SQL, machine learning, DSA, and backend development**.
 
 ---
 
-### CURRENTLY
+### RIGHT NOW
 
 ```text
-learning   → DSA · Machine Learning · Image Processing
-building   → AI/ML projects · backend systems
-exploring  → Computer Vision · LLMs · better ways to work with data
+learning   → data structures & algorithms, machine learning, image processing
+building   → ai/ml projects and backend systems
+exploring  → computer vision, llms and generative ai
+improving  → writing cleaner code and understanding the "why" behind it
+reading    → literature whenever i get the chance
 ```
 
 ---
 
-## STACK
+## THE STACK
 
-### LANGUAGES
+```text
+languages   python · c++ · c · sql
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" height="42" alt="C, C++, Python" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=c4b5fd" height="42" alt="SQL" />
-</p>
+web         flask · html · css · rest apis
 
-### AI / ML
+ai / ml     machine learning · recommendation systems
+            data processing · basic image processing
 
-`Machine Learning` · `Data Processing` · `Recommendation Systems` · `Image Processing` · `AI Fundamentals`
+concepts    oop · data structures & algorithms · backend development
 
-### WEB & BACKEND
+tools       git · github · vscode · google colab
+            bigquery · render · vercel
+```
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,flask" height="42" alt="HTML, CSS, Flask" />
-</p>
-
-`REST APIs` · `Backend Development`
-
-### TOOLS
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" height="42" alt="Git, GitHub, VS Code, Vercel" />
-</p>
-
-`Google Colab` · `Google BigQuery` · `Render`
+I'm less interested in collecting technologies and more interested in understanding how the ones I use actually fit together.
 
 ---
 
-# FEATURED PROJECTS
+## THINGS I HAVE BUILT
 
-## Next Intern
+### 01 / next intern
 
-**AI-powered internship recommendation system**
+**an internship recommendation system built around finding better matches, not just more listings.**
 
-I built Next Intern around a simple problem: internship listings are everywhere, but finding the ones that actually match a student's profile takes time.
+I started working on Next Intern because going through large numbers of internship listings manually isn't exactly a great experience.
 
-The system recommends internships using information such as **skills, interests, preferred role, location and profile details**, with support for **CV/resume-based recommendations** as well.
+The system uses a student's profile to recommend relevant internships based on things like their skills, interests, preferred role and location. It also supports recommendations using information extracted from a CV/resume.
 
-**What it does**
-
-* matches student profiles with relevant internships
-* recommends opportunities from CV/resume information
-* considers skills, role preferences and location
-* connects an ML-based recommendation flow with a web interface
+```text
+features
+├── profile-based internship recommendations
+├── cv / resume-based recommendations
+├── skill + preference matching
+└── ranked internship results
+```
 
 **built with**
-
-`Python` · `Flask` · `Machine Learning` · `HTML` · `CSS` · `REST APIs` · `Data Processing`
-
----
-
-## SafeCircleAI
-
-**AI-focused personal safety project**
-
-SafeCircleAI explores how technology can make personal safety tools a little smarter and more useful when someone actually needs them.
-
-The project focuses on combining **AI-driven features, safety workflows and a simple web experience** rather than making safety technology complicated to use.
-
-**Focus**
-
-`Artificial Intelligence` · `Personal Safety` · `Web Development` · `Smart Features`
+`Python` `Flask` `Machine Learning` `HTML` `CSS` `REST APIs` `Data Processing`
 
 ---
 
-## a few things i know
+### 02 / safecircleai
+
+**an ai-focused project exploring how technology can support personal safety.**
+
+SafeCircleAI started with a fairly simple question: *how can software make safety tools more useful when someone actually needs them?*
+
+The project focuses on combining AI-driven functionality with a straightforward web experience, without making the product unnecessarily complicated.
+
+**focus**
+`Artificial Intelligence` `Personal Safety` `Web Development` `Practical Usability`
+
+---
+
+## OUTSIDE THE TERMINAL
+
+I enjoy the people side of tech just as much as the technical side.
+
+Public speaking, meeting new people, developer communities, hackathons and organising technical events are things I genuinely enjoy. I also like reading literature and occasionally getting an idea for a project that becomes much bigger than I originally planned.
+
+Being around developer communities has taught me a lot about communication, teamwork and learning from people who approach the same problem differently.
+
+---
+
+## a small note to self
 
 ```python
-Jaskirat = {
-    "languages": ["C", "C++", "Python", "SQL"],
-    "concepts": [
-        "OOP",
-        "Data Structures & Algorithms",
-        "Machine Learning",
-        "Recommendation Systems",
-        "REST APIs"
-    ],
-    "currently_learning": [
-        "Image Processing",
-        "Computer Vision",
-        "Generative AI / LLMs"
-    ]
-}
-```
-
----
-
-## When I'm Not Coding
-
-You'll usually find me **talking to people, public speaking, attending or organising technical events, exploring developer communities, reading literature, or starting another idea I suddenly decided would be fun to build**.
-
-Hackathons and community work are a big part of how I learn — they push me to communicate better, work with people and turn half-formed ideas into something usable.
-
----
-
-## What I'm Working Towards
-
-For now, I'm focused on getting better at the fundamentals rather than trying to know everything at once.
-
-```text
-stronger DSA
-      ↓
-better ML understanding
-      ↓
-better backend development
-      ↓
-more complete AI projects
-      ↓
-build things that are actually useful
+while still_learning:
+    build()
+    break_things()
+    understand_why()
+    try_again()
 ```
 
 ---
 
 ## FIND ME
 
-<p>
-  <a href="https://github.com/jaskiratbudhmaan-ship-it">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c4b5fd" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="www.linkedin.com/in/jaskirat-dev-b73a82333">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=c4b5fd" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:jaskiratbudhmaan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1e1b4b?style=for-the-badge&logo=gmail&logoColor=c4b5fd" alt="Email" />
-  </a>
-</p>
+**github** → [Jaskiratbudhmaan-ship-it](https://github.com/jaskiratbudhmaan-ship-it)
+**linkedin** → [connect with me](https://www.linkedin.com/in/jaskirat-dev-b73a82333/)
+**email** → [YOUR_EMAIL](mailto:jaskiratbudhmaan@gmail.com)
 
 ---
 
-<p align="center">
-  <sub>still learning. still building. probably debugging something right now.</sub>
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,55:111827,100:0d1117&height=110&section=footer"
-    width="100%"
-    alt=""
-  />
-</p>
+<sub>probably building something, debugging something, or doing both at the same time.</sub>
