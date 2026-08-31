@@ -11,7 +11,7 @@
 <br>
 
 ```text
-jaskirat@github:~$ whoami
+JASKIRAT
 
 2nd year B.Sc. Artificial Intelligence & Machine Learning
 learning by building things that are slightly above my current skill level
@@ -24,7 +24,7 @@ Still learning. Still debugging. Definitely still opening too many tabs while bu
 
 ---
 
-## `01 / current_state`
+## `01 / CURRENT`
 
 ```text
 ╭──────────────────────────────────────────────────────╮
@@ -39,18 +39,18 @@ Still learning. Still debugging. Definitely still opening too many tabs while bu
 
 ---
 
-## `02 / toolbox`
+## `02 / TOOLBOX`
 
-<div align="center">
+<div align="LEFT">
 
-### languages
+### LANGUAGES
 
 ![Python](https://img.shields.io/badge/PYTHON-111827?style=for-the-badge\&logo=python\&logoColor=22D3EE)
 ![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge\&logo=cplusplus\&logoColor=A78BFA)
 ![C](https://img.shields.io/badge/C-111827?style=for-the-badge\&logo=c\&logoColor=818CF8)
 ![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge\&logo=postgresql\&logoColor=22D3EE)
 
-### ai / ml
+### AI/ML
 
 ![Artificial Intelligence](https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-161B22?style=for-the-badge\&logoColor=A78BFA)
 ![Machine Learning](https://img.shields.io/badge/MACHINE%20LEARNING-161B22?style=for-the-badge\&logo=scikitlearn\&logoColor=22D3EE)
@@ -58,14 +58,14 @@ Still learning. Still debugging. Definitely still opening too many tabs while bu
 ![Data Processing](https://img.shields.io/badge/DATA%20PROCESSING-161B22?style=for-the-badge\&logo=pandas\&logoColor=A78BFA)
 ![Computer Vision](https://img.shields.io/badge/COMPUTER%20VISION-161B22?style=for-the-badge\&logo=opencv\&logoColor=22D3EE)
 
-### web / backend
+### WEB / BACKEND
 
 ![HTML](https://img.shields.io/badge/HTML-1E293B?style=for-the-badge\&logo=html5\&logoColor=A78BFA)
 ![CSS](https://img.shields.io/badge/CSS-1E293B?style=for-the-badge\&logo=css3\&logoColor=22D3EE)
 ![Flask](https://img.shields.io/badge/FLASK-1E293B?style=for-the-badge\&logo=flask\&logoColor=F8FAFC)
 ![REST API](https://img.shields.io/badge/REST%20API-1E293B?style=for-the-badge\&logo=fastapi\&logoColor=818CF8)
 
-### tools
+### TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" height="43" alt="Git GitHub VS Code Vercel"/>
 
@@ -94,7 +94,7 @@ Basic Image Processing
 
 ---
 
-# `03 / featured_projects`
+# `03 / FEATURED PROJECTS`
 
 <br>
 
@@ -163,7 +163,7 @@ The project explores AI-assisted functionality through a simple web experience.
 
 ---
 
-## `04 / learning_queue`
+## `04 / LEARNING_QUEUE`
 
 | now                           | next                      |
 | :---------------------------- | :------------------------ |
@@ -185,19 +185,19 @@ while not idea.works():
 
 ---
 
-## `05 / github_signal`
+## `05 / GITHUB SIGNAL`
 
-<div align="center">
+<div align="left">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&ring_color=818CF8" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jaskiratbudhmaan-ship-it&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&ring_color=818CF8" alt="GitHub Stats"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskiratbudhmaan-ship-it&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## `06 / outside_the_code`
+## `06 / OUTSIDE THE TERMINAL`
 
 I like the social side of tech too — **public speaking, meeting people, developer communities, hackathons and organising technical events**.
 
@@ -207,19 +207,19 @@ For me, a lot of learning happens through conversations, teamwork and seeing how
 
 ---
 
-## `07 / find_me`
+## `07 / FIND ME`
 
-<div align="center">
+<div align="left">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/jaskiratbudhmaan-ship-it">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/jaskirat-dev-b73a82333/">
 <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:jaskiratbudhmaan@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-1E293B?style=for-the-badge&logo=gmail&logoColor=A78BFA"/>
 </a>
 
