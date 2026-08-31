@@ -2,11 +2,11 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:111827,100:1e1b4b&height=220&section=header&text=JASKIRAT%20KAUR&fontSize=44&fontColor=c4b5fd&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20student%20%E2%80%A2%20learning%20by%20building&descAlignY=58&descSize=16&descColor=a78bfa"
     width="100%"
-    alt="Jaskirat Kaur"
+    alt="Jaskirat"
   />
 </p>
 
-## hey, i'm Jaskirat
+## Hey , I'm JASKIRAT
 
 I'm a **2nd-year B.Sc. Artificial Intelligence & Machine Learning student** who likes learning by actually building things.
 
@@ -16,7 +16,7 @@ I'm especially interested in **AI/ML, recommendation systems, data, backend deve
 
 ---
 
-### currently
+### CURRENTLY
 
 ```text
 learning   → DSA · Machine Learning · Image Processing
@@ -26,9 +26,9 @@ exploring  → Computer Vision · LLMs · better ways to work with data
 
 ---
 
-## stack
+## STACK
 
-### languages
+### LANGUAGES
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python" height="42" alt="C, C++, Python" />
@@ -36,11 +36,11 @@ exploring  → Computer Vision · LLMs · better ways to work with data
   <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=c4b5fd" height="42" alt="SQL" />
 </p>
 
-### ai / ml
+### AI / ML
 
 `Machine Learning` · `Data Processing` · `Recommendation Systems` · `Image Processing` · `AI Fundamentals`
 
-### web & backend
+### WEB & BACKEND
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,flask" height="42" alt="HTML, CSS, Flask" />
@@ -48,7 +48,7 @@ exploring  → Computer Vision · LLMs · better ways to work with data
 
 `REST APIs` · `Backend Development`
 
-### tools
+### TOOLS
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" height="42" alt="Git, GitHub, VS Code, Vercel" />
@@ -58,7 +58,7 @@ exploring  → Computer Vision · LLMs · better ways to work with data
 
 ---
 
-# featured projects
+# FEATURED PROJECTS
 
 ## Next Intern
 
@@ -89,7 +89,7 @@ SafeCircleAI explores how technology can make personal safety tools a little sma
 
 The project focuses on combining **AI-driven features, safety workflows and a simple web experience** rather than making safety technology complicated to use.
 
-**focus**
+**Focus**
 
 `Artificial Intelligence` · `Personal Safety` · `Web Development` · `Smart Features`
 
@@ -98,7 +98,7 @@ The project focuses on combining **AI-driven features, safety workflows and a si
 ## a few things i know
 
 ```python
-jaskirat = {
+Jaskirat = {
     "languages": ["C", "C++", "Python", "SQL"],
     "concepts": [
         "OOP",
@@ -117,7 +117,7 @@ jaskirat = {
 
 ---
 
-## when i'm not coding
+## When I'm Not Coding
 
 You'll usually find me **talking to people, public speaking, attending or organising technical events, exploring developer communities, reading literature, or starting another idea I suddenly decided would be fun to build**.
 
@@ -125,7 +125,7 @@ Hackathons and community work are a big part of how I learn — they push me to 
 
 ---
 
-## what i'm working towards
+## What I'm Working Towards
 
 For now, I'm focused on getting better at the fundamentals rather than trying to know everything at once.
 
@@ -143,7 +143,7 @@ build things that are actually useful
 
 ---
 
-## find me
+## FIND ME
 
 <p>
   <a href="https://github.com/jaskiratbudhmaan-ship-it">
